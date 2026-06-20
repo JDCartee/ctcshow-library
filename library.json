@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "shows": [
+    {
+      "id": "hamlet",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "year": "c. 1600",
+      "filename": "hamlet.ctcshow"
+    },
+    {
+      "id": "macbeth",
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "year": "c. 1606",
+      "filename": "macbeth.ctcshow"
+    },
+    {
+      "id": "romeo-and-juliet",
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "year": "c. 1595",
+      "filename": "romeo-and-juliet.ctcshow"
+    },
+    {
+      "id": "midsummer-nights-dream",
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "year": "c. 1595",
+      "filename": "midsummer-nights-dream.ctcshow"
+    },
+    {
+      "id": "much-ado-about-nothing",
+      "title": "Much Ado About Nothing",
+      "author": "William Shakespeare",
+      "year": "c. 1598",
+      "filename": "much-ado-about-nothing.ctcshow"
+    },
+    {
+      "id": "twelfth-night",
+      "title": "Twelfth Night",
+      "author": "William Shakespeare",
+      "year": "c. 1601",
+      "filename": "twelfth-night.ctcshow"
+    },
+    {
+      "id": "importance-of-being-earnest",
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "year": "1895",
+      "filename": "importance-of-being-earnest.ctcshow"
+    },
+    {
+      "id": "cherry-orchard",
+      "title": "The Cherry Orchard",
+      "author": "Anton Chekhov",
+      "year": "1904",
+      "filename": "cherry-orchard.ctcshow"
+    },
+    {
+      "id": "dolls-house",
+      "title": "A Doll's House",
+      "author": "Henrik Ibsen",
+      "year": "1879",
+      "filename": "dolls-house.ctcshow"
+    },
+    {
+      "id": "tartuffe",
+      "title": "Tartuffe",
+      "author": "Molière",
+      "year": "1664",
+      "filename": "tartuffe.ctcshow"
+    }
+  ]
+}
