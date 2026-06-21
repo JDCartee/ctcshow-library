@@ -2,6 +2,20 @@
   "version": 1,
   "shows": [
     {
+      "id": "barber-of-seville",
+      "title": "The Barber of Seville",
+      "author": "Pierre-Augustin Caron de Beaumarchais",
+      "year": "1775",
+      "filename": "barber-of-seville.ctcshow"
+    },
+    {
+      "id": "marriage-of-figaro",
+      "title": "The Marriage of Figaro",
+      "author": "Pierre-Augustin Caron de Beaumarchais",
+      "year": "1784",
+      "filename": "marriage-of-figaro.ctcshow"
+    },
+    {
       "id": "cherry-orchard",
       "title": "The Cherry Orchard",
       "author": "Anton Chekhov",
@@ -58,6 +72,48 @@
       "filename": "medea.ctcshow"
     },
     {
+      "id": "the-beaux-stratagem",
+      "title": "The Beaux' Stratagem",
+      "author": "George Farquhar",
+      "year": "1707",
+      "filename": "the-beaux-stratagem.ctcshow"
+    },
+    {
+      "id": "the-recruiting-officer",
+      "title": "The Recruiting Officer",
+      "author": "George Farquhar",
+      "year": "1706",
+      "filename": "the-recruiting-officer.ctcshow"
+    },
+    {
+      "id": "trifles",
+      "title": "Trifles",
+      "author": "Susan Glaspell",
+      "year": "1916",
+      "filename": "trifles.ctcshow"
+    },
+    {
+      "id": "the-government-inspector",
+      "title": "The Government Inspector",
+      "author": "Nikolai Gogol",
+      "year": "1836",
+      "filename": "the-government-inspector.ctcshow"
+    },
+    {
+      "id": "servant-of-two-masters",
+      "title": "The Servant of Two Masters",
+      "author": "Carlo Goldoni",
+      "year": "1746",
+      "filename": "servant-of-two-masters.ctcshow"
+    },
+    {
+      "id": "she-stoops-to-conquer",
+      "title": "She Stoops to Conquer",
+      "author": "Oliver Goldsmith",
+      "year": "1773",
+      "filename": "she-stoops-to-conquer.ctcshow"
+    },
+    {
       "id": "dolls-house",
       "title": "A Doll's House",
       "author": "Henrik Ibsen",
@@ -86,6 +142,41 @@
       "filename": "the-master-builder.ctcshow"
     },
     {
+      "id": "the-alchemist",
+      "title": "The Alchemist",
+      "author": "Ben Jonson",
+      "year": "1610",
+      "filename": "the-alchemist.ctcshow"
+    },
+    {
+      "id": "volpone",
+      "title": "Volpone",
+      "author": "Ben Jonson",
+      "year": "1606",
+      "filename": "volpone.ctcshow"
+    },
+    {
+      "id": "doctor-faustus",
+      "title": "Doctor Faustus",
+      "author": "Christopher Marlowe",
+      "year": "c. 1592",
+      "filename": "doctor-faustus.ctcshow"
+    },
+    {
+      "id": "edward-ii",
+      "title": "Edward II",
+      "author": "Christopher Marlowe",
+      "year": "c. 1592",
+      "filename": "edward-ii.ctcshow"
+    },
+    {
+      "id": "tamburlaine",
+      "title": "Tamburlaine the Great (Part 1)",
+      "author": "Christopher Marlowe",
+      "year": "c. 1587",
+      "filename": "tamburlaine.ctcshow"
+    },
+    {
       "id": "tartuffe",
       "title": "Tartuffe",
       "author": "Moli\u00e8re",
@@ -100,11 +191,60 @@
       "filename": "anna-christie.ctcshow"
     },
     {
+      "id": "beyond-the-horizon",
+      "title": "Beyond the Horizon",
+      "author": "Eugene O'Neill",
+      "year": "1920",
+      "filename": "beyond-the-horizon.ctcshow"
+    },
+    {
+      "id": "desire-under-the-elms",
+      "title": "Desire Under the Elms",
+      "author": "Eugene O'Neill",
+      "year": "1924",
+      "filename": "desire-under-the-elms.ctcshow"
+    },
+    {
       "id": "the-emperor-jones",
       "title": "The Emperor Jones",
       "author": "Eugene O'Neill",
       "year": "1920",
       "filename": "the-emperor-jones.ctcshow"
+    },
+    {
+      "id": "the-hairy-ape",
+      "title": "The Hairy Ape",
+      "author": "Eugene O'Neill",
+      "year": "1922",
+      "filename": "the-hairy-ape.ctcshow"
+    },
+    {
+      "id": "six-characters",
+      "title": "Six Characters in Search of an Author",
+      "author": "Luigi Pirandello",
+      "year": "1921",
+      "filename": "six-characters.ctcshow"
+    },
+    {
+      "id": "andromaque",
+      "title": "Andromaque",
+      "author": "Jean Racine",
+      "year": "1667",
+      "filename": "andromaque.ctcshow"
+    },
+    {
+      "id": "phedre",
+      "title": "Ph\u00e8dre",
+      "author": "Jean Racine",
+      "year": "1677",
+      "filename": "phedre.ctcshow"
+    },
+    {
+      "id": "cyrano-de-bergerac",
+      "title": "Cyrano de Bergerac",
+      "author": "Edmond Rostand",
+      "year": "1897",
+      "filename": "cyrano-de-bergerac.ctcshow"
     },
     {
       "id": "as-you-like-it",
@@ -233,6 +373,48 @@
       "filename": "oedipus-rex.ctcshow"
     },
     {
+      "id": "the-father",
+      "title": "The Father",
+      "author": "August Strindberg",
+      "year": "1887",
+      "filename": "the-father.ctcshow"
+    },
+    {
+      "id": "miss-julie",
+      "title": "Miss Julie",
+      "author": "August Strindberg",
+      "year": "1888",
+      "filename": "miss-julie.ctcshow"
+    },
+    {
+      "id": "playboy-of-the-western-world",
+      "title": "The Playboy of the Western World",
+      "author": "J.M. Synge",
+      "year": "1907",
+      "filename": "playboy-of-the-western-world.ctcshow"
+    },
+    {
+      "id": "riders-to-the-sea",
+      "title": "Riders to the Sea",
+      "author": "J.M. Synge",
+      "year": "1904",
+      "filename": "riders-to-the-sea.ctcshow"
+    },
+    {
+      "id": "duchess-of-malfi",
+      "title": "The Duchess of Malfi",
+      "author": "John Webster",
+      "year": "c. 1612",
+      "filename": "duchess-of-malfi.ctcshow"
+    },
+    {
+      "id": "the-white-devil",
+      "title": "The White Devil",
+      "author": "John Webster",
+      "year": "c. 1612",
+      "filename": "the-white-devil.ctcshow"
+    },
+    {
       "id": "an-ideal-husband",
       "title": "An Ideal Husband",
       "author": "Oscar Wilde",
@@ -252,6 +434,13 @@
       "author": "Oscar Wilde",
       "year": "1892",
       "filename": "lady-windermeres-fan.ctcshow"
+    },
+    {
+      "id": "the-country-wife",
+      "title": "The Country Wife",
+      "author": "William Wycherley",
+      "year": "1675",
+      "filename": "the-country-wife.ctcshow"
     }
   ]
 }
