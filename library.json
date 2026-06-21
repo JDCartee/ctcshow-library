@@ -1,75 +1,38 @@
 {
   "version": 1,
   "shows": [
-    {
-      "id": "hamlet",
-      "title": "Hamlet",
-      "author": "William Shakespeare",
-      "year": "c. 1600",
-      "filename": "hamlet.ctcshow"
-    },
-    {
-      "id": "macbeth",
-      "title": "Macbeth",
-      "author": "William Shakespeare",
-      "year": "c. 1606",
-      "filename": "macbeth.ctcshow"
-    },
-    {
-      "id": "romeo-and-juliet",
-      "title": "Romeo and Juliet",
-      "author": "William Shakespeare",
-      "year": "c. 1595",
-      "filename": "romeo-and-juliet.ctcshow"
-    },
-    {
-      "id": "midsummer-nights-dream",
-      "title": "A Midsummer Night's Dream",
-      "author": "William Shakespeare",
-      "year": "c. 1595",
-      "filename": "midsummer-nights-dream.ctcshow"
-    },
-    {
-      "id": "much-ado-about-nothing",
-      "title": "Much Ado About Nothing",
-      "author": "William Shakespeare",
-      "year": "c. 1598",
-      "filename": "much-ado-about-nothing.ctcshow"
-    },
-    {
-      "id": "twelfth-night",
-      "title": "Twelfth Night",
-      "author": "William Shakespeare",
-      "year": "c. 1601",
-      "filename": "twelfth-night.ctcshow"
-    },
-    {
-      "id": "importance-of-being-earnest",
-      "title": "The Importance of Being Earnest",
-      "author": "Oscar Wilde",
-      "year": "1895",
-      "filename": "importance-of-being-earnest.ctcshow"
-    },
-    {
-      "id": "cherry-orchard",
-      "title": "The Cherry Orchard",
-      "author": "Anton Chekhov",
-      "year": "1904",
-      "filename": "cherry-orchard.ctcshow"
-    },
-    {
-      "id": "dolls-house",
-      "title": "A Doll's House",
-      "author": "Henrik Ibsen",
-      "year": "1879",
-      "filename": "dolls-house.ctcshow"
-    },
-    {
-      "id": "tartuffe",
-      "title": "Tartuffe",
-      "author": "Molière",
-      "year": "1664",
-      "filename": "tartuffe.ctcshow"
-    }
+    {"id": "hamlet", "title": "Hamlet", "author": "William Shakespeare", "year": "c. 1600", "filename": "hamlet.ctcshow"},
+    {"id": "macbeth", "title": "Macbeth", "author": "William Shakespeare", "year": "c. 1606", "filename": "macbeth.ctcshow"},
+    {"id": "othello", "title": "Othello", "author": "William Shakespeare", "year": "c. 1603", "filename": "othello.ctcshow"},
+    {"id": "king-lear", "title": "King Lear", "author": "William Shakespeare", "year": "c. 1606", "filename": "king-lear.ctcshow"},
+    {"id": "romeo-and-juliet", "title": "Romeo and Juliet", "author": "William Shakespeare", "year": "c. 1595", "filename": "romeo-and-juliet.ctcshow"},
+    {"id": "midsummer-nights-dream", "title": "A Midsummer Night's Dream", "author": "William Shakespeare", "year": "c. 1595", "filename": "midsummer-nights-dream.ctcshow"},
+    {"id": "much-ado-about-nothing", "title": "Much Ado About Nothing", "author": "William Shakespeare", "year": "c. 1598", "filename": "much-ado-about-nothing.ctcshow"},
+    {"id": "twelfth-night", "title": "Twelfth Night", "author": "William Shakespeare", "year": "c. 1601", "filename": "twelfth-night.ctcshow"},
+    {"id": "the-tempest", "title": "The Tempest", "author": "William Shakespeare", "year": "c. 1611", "filename": "the-tempest.ctcshow"},
+    {"id": "julius-caesar", "title": "Julius Caesar", "author": "William Shakespeare", "year": "c. 1599", "filename": "julius-caesar.ctcshow"},
+    {"id": "as-you-like-it", "title": "As You Like It", "author": "William Shakespeare", "year": "c. 1599", "filename": "as-you-like-it.ctcshow"},
+    {"id": "taming-of-the-shrew", "title": "The Taming of the Shrew", "author": "William Shakespeare", "year": "c. 1590", "filename": "taming-of-the-shrew.ctcshow"},
+    {"id": "importance-of-being-earnest", "title": "The Importance of Being Earnest", "author": "Oscar Wilde", "year": "1895", "filename": "importance-of-being-earnest.ctcshow"},
+    {"id": "an-ideal-husband", "title": "An Ideal Husband", "author": "Oscar Wilde", "year": "1895", "filename": "an-ideal-husband.ctcshow"},
+    {"id": "lady-windermeres-fan", "title": "Lady Windermere's Fan", "author": "Oscar Wilde", "year": "1892", "filename": "lady-windermeres-fan.ctcshow"},
+    {"id": "cherry-orchard", "title": "The Cherry Orchard", "author": "Anton Chekhov", "year": "1904", "filename": "cherry-orchard.ctcshow"},
+    {"id": "the-seagull", "title": "The Seagull", "author": "Anton Chekhov", "year": "1896", "filename": "the-seagull.ctcshow"},
+    {"id": "three-sisters", "title": "Three Sisters", "author": "Anton Chekhov", "year": "1901", "filename": "three-sisters.ctcshow"},
+    {"id": "uncle-vanya", "title": "Uncle Vanya", "author": "Anton Chekhov", "year": "1897", "filename": "uncle-vanya.ctcshow"},
+    {"id": "dolls-house", "title": "A Doll's House", "author": "Henrik Ibsen", "year": "1879", "filename": "dolls-house.ctcshow"},
+    {"id": "hedda-gabler", "title": "Hedda Gabler", "author": "Henrik Ibsen", "year": "1891", "filename": "hedda-gabler.ctcshow"},
+    {"id": "ghosts", "title": "Ghosts", "author": "Henrik Ibsen", "year": "1881", "filename": "ghosts.ctcshow"},
+    {"id": "the-master-builder", "title": "The Master Builder", "author": "Henrik Ibsen", "year": "1892", "filename": "the-master-builder.ctcshow"},
+    {"id": "tartuffe", "title": "Tartuffe", "author": "Molière", "year": "1664", "filename": "tartuffe.ctcshow"},
+    {"id": "pygmalion", "title": "Pygmalion", "author": "George Bernard Shaw", "year": "1913", "filename": "pygmalion.ctcshow"},
+    {"id": "arms-and-the-man", "title": "Arms and the Man", "author": "George Bernard Shaw", "year": "1894", "filename": "arms-and-the-man.ctcshow"},
+    {"id": "saint-joan", "title": "Saint Joan", "author": "George Bernard Shaw", "year": "1923", "filename": "saint-joan.ctcshow"},
+    {"id": "oedipus-rex", "title": "Oedipus Rex", "author": "Sophocles", "year": "c. 429 BC", "filename": "oedipus-rex.ctcshow"},
+    {"id": "antigone", "title": "Antigone", "author": "Sophocles", "year": "c. 441 BC", "filename": "antigone.ctcshow"},
+    {"id": "medea", "title": "Medea", "author": "Euripides", "year": "431 BC", "filename": "medea.ctcshow"},
+    {"id": "school-for-scandal", "title": "The School for Scandal", "author": "Richard Brinsley Sheridan", "year": "1777", "filename": "school-for-scandal.ctcshow"},
+    {"id": "anna-christie", "title": "Anna Christie", "author": "Eugene O'Neill", "year": "1921", "filename": "anna-christie.ctcshow"},
+    {"id": "the-emperor-jones", "title": "The Emperor Jones", "author": "Eugene O'Neill", "year": "1920", "filename": "the-emperor-jones.ctcshow"}
   ]
 }
