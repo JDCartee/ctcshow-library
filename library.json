@@ -247,6 +247,13 @@
       "filename": "cyrano-de-bergerac.ctcshow"
     },
     {
+      "id": "antony-and-cleopatra",
+      "title": "Antony and Cleopatra",
+      "author": "William Shakespeare",
+      "year": "c. 1606",
+      "filename": "antony-and-cleopatra.ctcshow"
+    },
+    {
       "id": "as-you-like-it",
       "title": "As You Like It",
       "author": "William Shakespeare",
@@ -254,11 +261,39 @@
       "filename": "as-you-like-it.ctcshow"
     },
     {
+      "id": "comedy-of-errors",
+      "title": "The Comedy of Errors",
+      "author": "William Shakespeare",
+      "year": "c. 1594",
+      "filename": "comedy-of-errors.ctcshow"
+    },
+    {
+      "id": "coriolanus",
+      "title": "Coriolanus",
+      "author": "William Shakespeare",
+      "year": "c. 1608",
+      "filename": "coriolanus.ctcshow"
+    },
+    {
       "id": "hamlet",
       "title": "Hamlet",
       "author": "William Shakespeare",
       "year": "c. 1600",
       "filename": "hamlet.ctcshow"
+    },
+    {
+      "id": "henry-iv-part-1",
+      "title": "Henry IV, Part 1",
+      "author": "William Shakespeare",
+      "year": "c. 1597",
+      "filename": "henry-iv-part-1.ctcshow"
+    },
+    {
+      "id": "henry-v",
+      "title": "Henry V",
+      "author": "William Shakespeare",
+      "year": "c. 1599",
+      "filename": "henry-v.ctcshow"
     },
     {
       "id": "julius-caesar",
@@ -275,11 +310,39 @@
       "filename": "king-lear.ctcshow"
     },
     {
+      "id": "loves-labours-lost",
+      "title": "Love's Labour's Lost",
+      "author": "William Shakespeare",
+      "year": "c. 1594",
+      "filename": "loves-labours-lost.ctcshow"
+    },
+    {
       "id": "macbeth",
       "title": "Macbeth",
       "author": "William Shakespeare",
       "year": "c. 1606",
       "filename": "macbeth.ctcshow"
+    },
+    {
+      "id": "measure-for-measure",
+      "title": "Measure for Measure",
+      "author": "William Shakespeare",
+      "year": "c. 1604",
+      "filename": "measure-for-measure.ctcshow"
+    },
+    {
+      "id": "merchant-of-venice",
+      "title": "The Merchant of Venice",
+      "author": "William Shakespeare",
+      "year": "c. 1596",
+      "filename": "merchant-of-venice.ctcshow"
+    },
+    {
+      "id": "merry-wives-of-windsor",
+      "title": "The Merry Wives of Windsor",
+      "author": "William Shakespeare",
+      "year": "c. 1597",
+      "filename": "merry-wives-of-windsor.ctcshow"
     },
     {
       "id": "midsummer-nights-dream",
@@ -301,6 +364,20 @@
       "author": "William Shakespeare",
       "year": "c. 1603",
       "filename": "othello.ctcshow"
+    },
+    {
+      "id": "richard-ii",
+      "title": "Richard II",
+      "author": "William Shakespeare",
+      "year": "c. 1595",
+      "filename": "richard-ii.ctcshow"
+    },
+    {
+      "id": "richard-iii",
+      "title": "Richard III",
+      "author": "William Shakespeare",
+      "year": "c. 1592",
+      "filename": "richard-iii.ctcshow"
     },
     {
       "id": "romeo-and-juliet",
@@ -329,6 +406,13 @@
       "author": "William Shakespeare",
       "year": "c. 1601",
       "filename": "twelfth-night.ctcshow"
+    },
+    {
+      "id": "winters-tale",
+      "title": "The Winter's Tale",
+      "author": "William Shakespeare",
+      "year": "c. 1611",
+      "filename": "winters-tale.ctcshow"
     },
     {
       "id": "arms-and-the-man",
